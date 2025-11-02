@@ -1,5 +1,5 @@
-// Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-23 22:53:05.956288800 UTC
+// FrezzyHook d1mp
+// 2025-10-30 00:30:40.957679400 UTC
 
 #pragma once
 
